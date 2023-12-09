@@ -5,6 +5,8 @@ import Navbar from "../Navbar/navbar";
 import Manakish from "../Manakish/Manakish";
 import Pizza from "../Pizza/Pizza";
 import Muaajanet from "../Muaajanet/Muaajanet";
+import Drinks from "../Drinks/Drinks";
+import Footer from "../Footer/Footer";
 
 
 
@@ -14,6 +16,7 @@ function Menu(){
 
 return(
 <>
+<div className="black-background">
     <div className="">
         <img src={background} alt="background img" className="image-back"></img>
     </div>
@@ -26,9 +29,11 @@ return(
         <Manakish />
         <Pizza/>
         <Muaajanet/>
+        <Drinks/>
+        <Footer/>
 
     </div>
-
+    </div>
 </>
 );
 

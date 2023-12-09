@@ -1,5 +1,5 @@
 .black{
-background-color: rgba(0, 0, 0, 0.651);
+background-color: black ;
 height:100vh;
  margin-top: 0;
  display: flex;
@@ -9,7 +9,7 @@ height:100vh;
 }
 
 .karish{
-    color: white;
+    color: orange;
 }
 
 .title{
@@ -26,10 +26,11 @@ height:100vh;
 
 .btn-open-menu{
     padding: 10px;
-    border: none;
+    border: 1px solid orange;
     border-radius: 50px;
     width: 100px;
     font-size: 22px;
-    color: #595959;
+    color: orange;
     cursor: pointer;
+    background-color: whitesmoke;
 }

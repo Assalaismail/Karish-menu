@@ -1,3 +1,6 @@
+.black-background{
+background-color: black;
+}
 .image-back{
 width: 100%;
 height: 80vh;
@@ -9,9 +12,20 @@ padding-right: 15px;
 padding-left: 15px;
 }
 
+
+.manakish-center{
+
+border-bottom: 1px solid wheat;
+padding: 0;
+text-align: center;
+}
+
 .title-cat{
-font-size: 25px;
+font-size: 35px;
 font-weight: bold;
+margin: 0;
+color: orange;
+margin-bottom: 23px;
 }
 
 .cards-manakish {
@@ -21,7 +35,7 @@ flex-direction: column;
 
 .card {
 margin-bottom: 10px;
-border: 1px solid lightgray;
+/* border: 1px solid lightgray; */
 border-radius: 10px;
 }
 
@@ -39,9 +53,16 @@ border-radius: 20px;
 }
 
 .name-price{
+color: white;
 margin-right: 25px;
-width: 70px;
+width: 176px;
 }
+
+.name-price-pizza{
+    color: white;
+    margin-right: 25px;
+    width: 110px;
+    }
 
 .name{
 font-size: 20px;
@@ -50,14 +71,17 @@ font-weight: bold;
 
 .table{
 margin-right: 25px;
+color: white;
+
 }
 
 .first-tr{
 font-weight: 700;
+
 }
 
 @media screen and (max-width: 768px) {
-    .image-back{
-        height: auto;
-    }
+.image-back{
+height: auto;
+}
 }

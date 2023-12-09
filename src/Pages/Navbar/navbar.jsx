@@ -90,7 +90,6 @@ function Navbar() {
   return (
     <nav className={`navbar ${scrolling ? "fixed" : ""}`}>
       <div className="navbar-cat">
-        <p className="menu-icon">☰</p>
 
         {sections.map((section, index) => (
           <Link

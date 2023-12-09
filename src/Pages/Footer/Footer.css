@@ -1,0 +1,52 @@
+.footer-container {
+    background-color: orange;
+    color: black;
+    padding: 20px;
+  }
+
+  .location-contact{
+    text-align: center;
+  }
+
+  .footer-main {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .clmn-4 {
+    flex: 1;
+  }
+
+  .lebanon {
+    list-style: none;
+    margin-bottom: 10px;
+  }
+
+  .whatsapp {
+    list-style: none;
+    display: flex;
+    align-items: center;
+  }
+
+  .whatsapp a {
+    color: black;
+    margin-left: 10px;
+    text-decoration: none;
+  }
+
+  .copyright {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .location{
+    font-weight: bold;
+  }
+
+  .calls {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+
+  }

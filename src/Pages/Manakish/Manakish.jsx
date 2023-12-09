@@ -1,16 +1,5 @@
 import React from "react";
 import '../Menu/menu.css';
-import zaatar from "../../assets/zaatar.jpg";
-import jebne from "../../assets/jebne.jpg";
-import cocktail from "../../assets/cocktail.jpg";
-import keshek from "../../assets/keshek.jpg";
-import keshekcheese from "../../assets/keshekcheese.jpg";
-import banadura from "../../assets/banadura.jpg";
-import banaduracheese from "../../assets/banaduracheese.jpg";
-
-
-
-
 
 
 function Manakish(){
@@ -19,9 +8,10 @@ function Manakish(){
 return(
 <>
 
-<div id="مناقيش">
-        <h5 className="title-cat">مناقيش</h5>
-
+<div >
+    <div className="manakish-center">
+        <h5 className="title-cat" id="مناقيش">مناقيش</h5>
+    </div>
         <div className="cards-manakish">
             <div className="card">
                 <div className="content">
@@ -44,7 +34,7 @@ return(
                             <td>50000</td>
                         </tr>
                     </table>
-                    <img src={zaatar} alt="zaatar" className="img" />
+
 
 
                 </div>
@@ -71,7 +61,7 @@ return(
                             <td>130000</td>
                         </tr>
                     </table>
-                    <img src={jebne} alt="zaatar" className="img" />
+
 
                 </div>
             </div>
@@ -97,7 +87,7 @@ return(
                             <td>100000</td>
                         </tr>
                     </table>
-                    <img src={cocktail} alt="zaatar" className="img" />
+
 
                 </div>
             </div>
@@ -124,8 +114,6 @@ return(
                             <td>100000</td>
                         </tr>
                     </table>
-                    <img src={keshek} alt="keshek" className="img" />
-
                 </div>
             </div>
 
@@ -150,7 +138,7 @@ return(
                             <td>110000</td>
                         </tr>
                     </table>
-                    <img src={keshekcheese} alt="keshekcheese" className="img" />
+
 
                 </div>
             </div>
@@ -176,10 +164,7 @@ return(
                             <td>90000</td>
                         </tr>
                     </table>
-                    <img src={banadura} alt="banadura" className="img" />
-
                 </div>
-
             </div>
 
             <div className="card">
@@ -203,10 +188,258 @@ return(
                             <td>110000</td>
                         </tr>
                     </table>
-                    <img src={banaduracheese} alt="banaduracheese" className="img" />
+
 
                 </div>
             </div>
+
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">   لحمة  </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>100000</td>
+                            <td></td>
+                            <td></td>
+                            <td>130000</td>
+                        </tr>
+                    </table>
+
+
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">   كفتة  </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>100000</td>
+                            <td></td>
+                            <td></td>
+                            <td>130000</td>
+                        </tr>
+                    </table>
+
+
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">   سجق  </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>100000</td>
+                            <td></td>
+                            <td></td>
+                            <td>130000</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">   لحمة مع جبنة  </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>125000</td>
+                            <td></td>
+                            <td></td>
+                            <td>160000</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">   كفتة مع جبنة  </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>125000</td>
+                            <td></td>
+                            <td></td>
+                            <td>160000</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">   سجق مع جبنة  </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>125000</td>
+                            <td></td>
+                            <td></td>
+                            <td>160000</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">   مرتديلا وجبنة </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>125000</td>
+                            <td></td>
+                            <td></td>
+                            <td>160000</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">    زعلاني</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>150000</td>
+                            <td></td>
+                            <td></td>
+                            <td>200000</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">    كوكتيل كاريش </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>150000</td>
+                            <td></td>
+                            <td></td>
+                            <td>200000</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                    <div className="name-price">
+                        <p className="name">    سبانخ </p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td>عادي</td>
+                            <td></td>
+                            <td></td>
+                            <td>مشروحة</td>
+                        </tr>
+
+                        <tr>
+                            <td>80000</td>
+                            <td></td>
+                            <td></td>
+                            <td>-</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
 
         </div>
         </div>
