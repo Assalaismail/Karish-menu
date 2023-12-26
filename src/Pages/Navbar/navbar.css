@@ -17,7 +17,7 @@ display: flex;
 justify-content: center;
 display: flex;
 flex-direction: row;
-gap: 20px;
+gap: 10px;
 flex-direction: row-reverse;
 align-items: center;
 }
@@ -54,12 +54,13 @@ align-items: center;
 .navbar-cat{
 gap: 16px;
 align-items: center;
+font-size: 25px;
 }
 
 
 .a-cat{
 
-width: auto;
+/* width: auto; */
 
 }
 }
