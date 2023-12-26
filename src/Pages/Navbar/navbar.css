@@ -52,7 +52,7 @@ align-items: center;
 
 @media screen and (max-width: 768px) {
 .navbar-cat{
-gap: 16px;
+/* gap: 16px; */
 align-items: center;
 font-size: 25px;
 }
