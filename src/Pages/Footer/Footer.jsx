@@ -19,12 +19,12 @@ function Footer() {
 
             <li className="calls">
               <FontAwesomeIcon icon={faPhone} /> &nbsp;
-              <span className="phone-number"> 76176479 </span>
+              <span className="phone-number"> 70746019 </span>
             </li>
-<br></br>
+            <br></br>
             <li className="whatsapp">
               <FontAwesomeIcon icon={faWhatsapp} />  &nbsp;  &nbsp;
-              <a href="https://wa.me/96176176479">
+              <a href="https://wa.me/96170746019">
                 WhatsApp
               </a>
             </li>
