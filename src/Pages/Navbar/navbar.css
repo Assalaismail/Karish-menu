@@ -14,10 +14,11 @@ z-index: 1000;
 
 .navbar-cat {
 display: flex;
-justify-content: center;
+justify-content: space-between;
 flex-direction: row;
 flex-direction: row-reverse;
 align-items: center;
+padding: 10px;
 }
 
 .menu-icon{
@@ -39,6 +40,7 @@ border: none;
 background: none;
 font-size: 25px;
 cursor: pointer;
+gap: 0;
 
 &.active {
 background-color: orange;
@@ -52,6 +54,7 @@ padding-bottom: 10px;
 .navbar-cat{
 align-items: center;
 font-size: 25px;
+gap: 0;
 }
 
 
