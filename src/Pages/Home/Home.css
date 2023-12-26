@@ -28,7 +28,7 @@ height:100vh;
     padding: 10px;
     border: 1px solid orange;
     border-radius: 50px;
-    width: 100px;
+    min-width: 100px;
     font-size: 22px;
     color: orange;
     cursor: pointer;
