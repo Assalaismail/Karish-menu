@@ -34,7 +34,6 @@ text-align: center;
 padding-top: 10px;
 border-radius: 5px;
 color: white;
-/* width: 85px; */
 font-weight: bold;
 border: none;
 background: none;
@@ -45,20 +44,11 @@ gap: 0;
 &.active {
 background-color: orange;
 padding-bottom: 10px;
+padding-left: 0;
+padding-right: 0;
 }
 }
 }
 
 
-@media screen and (max-width: 768px) {
-.navbar-cat{
-align-items: center;
-font-size: 25px;
-gap: 0;
-}
 
-
-.a-cat{
-/* width: auto; */
-}
-}
