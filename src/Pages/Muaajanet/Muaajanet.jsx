@@ -15,11 +15,256 @@ return(
         <div className="cards-manakish">
             <div className="card">
                 <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">بيتزا</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">120000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">سجق وجبنة</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">120000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">مرتديلا وجبنة</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">120000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">صفيحة</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">100000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">جبنة</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">100000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
 
 
 
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">كوكتيل</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">100000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
 
 
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">سبانخ</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">100000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+
+
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">زعتر</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">50000</td>
+                        </tr>
+
+                    </table>
                 </div>
             </div>
         </div>

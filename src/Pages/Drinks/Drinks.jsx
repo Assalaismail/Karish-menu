@@ -29,7 +29,7 @@ return(
                         </tr>
 
                         <tr>
-                            <td>60000</td>
+                            <td className="drink-price">60000</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -55,7 +55,7 @@ return(
                         </tr>
 
                         <tr>
-                            <td>120000</td>
+                            <td className="drink-price">120000</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -80,7 +80,7 @@ return(
                         </tr>
 
                         <tr>
-                            <td>150000</td>
+                            <td className="drink-price">150000</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -105,7 +105,7 @@ return(
                         </tr>
 
                         <tr>
-                            <td>60000</td>
+                            <td className="drink-price">60000</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -130,7 +130,7 @@ return(
                         </tr>
 
                         <tr>
-                            <td>20000</td>
+                            <td className="drink-price">20000</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -153,7 +153,7 @@ return(
                         </tr>
 
                         <tr>
-                            <td>60000</td>
+                            <td className="drink-price">60000</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -176,7 +176,7 @@ return(
                         </tr>
 
                         <tr>
-                            <td>20000</td>
+                            <td className="drink-price">20000</td>
                             <td></td>
                             <td></td>
                             <td></td>
@@ -198,7 +198,7 @@ return(
                             <td></td>
                         </tr>
                         <tr>
-                            <td>35000</td>
+                            <td className="drink-price">35000</td>
                             <td></td>
                             <td></td>
                             <td></td>
