@@ -44,7 +44,7 @@ return(
                 </div>
             </div>
 
-            <div className="card">
+            {/* <div className="card">
                 <div className="content">
                 <div className="name-price-pizza">
                         <p className="name">سجق وجبنة</p>
@@ -73,10 +73,10 @@ return(
 
                     </table>
                 </div>
-            </div>
+            </div> */}
 
 
-            <div className="card">
+            {/* <div className="card">
                 <div className="content">
                 <div className="name-price-pizza">
                         <p className="name">مرتديلا وجبنة</p>
@@ -105,7 +105,7 @@ return(
 
                     </table>
                 </div>
-            </div>
+            </div> */}
 
 
             <div className="card">
