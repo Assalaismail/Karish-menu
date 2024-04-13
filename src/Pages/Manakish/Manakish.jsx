@@ -212,7 +212,7 @@ return(
                             <td>100000</td>
                             <td></td>
                             <td></td>
-                            <td>130000</td>
+                            <td>140000</td>
                         </tr>
                     </table>
 
@@ -238,7 +238,7 @@ return(
                             <td>100000</td>
                             <td></td>
                             <td></td>
-                            <td>130000</td>
+                            <td>140000</td>
                         </tr>
                     </table>
 
@@ -264,7 +264,7 @@ return(
                             <td>100000</td>
                             <td></td>
                             <td></td>
-                            <td>130000</td>
+                            <td>140000</td>
                         </tr>
                     </table>
                 </div>
