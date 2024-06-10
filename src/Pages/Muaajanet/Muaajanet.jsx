@@ -37,7 +37,7 @@ return(
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td className="dazine">120000</td>
+                            <td className="dazine">180000</td>
                         </tr>
 
                     </table>
@@ -132,7 +132,7 @@ return(
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td className="dazine">100000</td>
+                            <td className="dazine">160000</td>
                         </tr>
 
                     </table>
@@ -164,7 +164,7 @@ return(
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td className="dazine">100000</td>
+                            <td className="dazine">160000</td>
                         </tr>
 
                     </table>
@@ -197,7 +197,7 @@ return(
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td className="dazine">100000</td>
+                            <td className="dazine">160000</td>
                         </tr>
 
                     </table>
@@ -229,7 +229,7 @@ return(
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td className="dazine">100000</td>
+                            <td className="dazine">160000</td>
                         </tr>
 
                     </table>
@@ -261,7 +261,40 @@ return(
                             <td></td>
                             <td></td>
                             <td></td>
-                            <td className="dazine">50000</td>
+                            <td className="dazine">120000</td>
+                        </tr>
+
+                    </table>
+                </div>
+            </div>
+
+
+
+            <div className="card">
+                <div className="content">
+                <div className="name-price-pizza">
+                        <p className="name">دزينة مشكلة</p>
+                    </div>
+
+                    <table className="table">
+                        <tr className="first-tr">
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">الدزينة</td>
+                        </tr>
+
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td className="dazine">150000</td>
                         </tr>
 
                     </table>
