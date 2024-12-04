@@ -33,13 +33,13 @@ return(
                         </tr>
 
                         <tr>
-                            <td>150000</td>
+                            <td>200000</td>
                             <td></td>
                             <td></td>
-                            <td>350000</td>
+                            <td>400000</td>
                             <td></td>
                             <td></td>
-                            <td>500000</td>
+                            <td>550000</td>
                         </tr>
 
                     </table>
@@ -64,13 +64,13 @@ return(
                         </tr>
 
                         <tr>
-                            <td>200000</td>
+                            <td>250000</td>
                             <td></td>
                             <td></td>
-                            <td>400000</td>
+                            <td>500000</td>
                             <td></td>
                             <td></td>
-                            <td>600000</td>
+                            <td>650000</td>
                         </tr>
 
                     </table>
@@ -96,13 +96,13 @@ return(
                         </tr>
 
                         <tr>
-                            <td>200000</td>
+                            <td>250000</td>
                             <td></td>
                             <td></td>
-                            <td>400000</td>
+                            <td>500000</td>
                             <td></td>
                             <td></td>
-                            <td>600000</td>
+                            <td>650000</td>
                         </tr>
 
                     </table>
@@ -127,10 +127,10 @@ return(
                         </tr>
 
                         <tr>
-                            <td>200000</td>
+                            <td>250000</td>
                             <td></td>
                             <td></td>
-                            <td>450000</td>
+                            <td>500000</td>
                             <td></td>
                             <td></td>
                             <td>700000</td>
