@@ -28,7 +28,7 @@ function Navbar() {
     };
   }, []);
 
-  const sections = ["مناقيش", "بيتزا", "معجنات", "مشروبات"];
+  const sections = ["مناقيش", "بيتزا", "معجنات", "جريش", "كعك" , "مشروبات"];
 
   const handleSetActive = (to) => {
     setActiveSection(to);

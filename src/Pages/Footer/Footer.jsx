@@ -32,7 +32,7 @@ function Footer() {
         </section>
       </main>
       <p className="copyright">
-        Copyright © 2023 Karish All rights reserved || <a href="mailto:ismailassala1@gmail.com">Assala Ismail</a>
+        Copyright © 2025 Karish All rights reserved || <a href="mailto:ismailassala1@gmail.com">Assala Ismail</a>
       </p>
 
     </footer>

@@ -7,6 +7,8 @@ import Pizza from "../Pizza/Pizza";
 import Muaajanet from "../Muaajanet/Muaajanet";
 import Drinks from "../Drinks/Drinks";
 import Footer from "../Footer/Footer";
+import Jrish from "../Jrish/Jrish";
+import Kaak from "../Kaak/Kaak";
 
 
 
@@ -29,6 +31,8 @@ return(
         <Manakish />
         <Pizza/>
         <Muaajanet/>
+        <Jrish/>
+        <Kaak/>
         <Drinks/>
         <Footer/>
 
