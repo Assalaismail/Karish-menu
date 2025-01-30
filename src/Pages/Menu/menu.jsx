@@ -30,7 +30,7 @@ return(
     <div dir="rtl" className="manakish">
         <Manakish />
         <Pizza/>
-        <Muaajanet/>
+        {/* <Muaajanet/> */}
         <Jrish/>
         <Kaak/>
         <Drinks/>
